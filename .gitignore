@@ -1,0 +1,9 @@
+# Ignorar todos los archivos
+*
+
+# Excepto los archivos .py
+!*.py
+
+
+# Excepto los archivos .ipynb
+!*.ipynb
